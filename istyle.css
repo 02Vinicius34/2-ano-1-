@@ -1,0 +1,6 @@
+body {
+    background-image: linear-gradient(to top,rgb(255, 0, 0),rgb(251, 255, 0),rgb(76, 231, 29),rgb(0, 225, 255) );
+    margin: 0;
+    height: 100vh;
+   background-attachment: fixed;
+}
